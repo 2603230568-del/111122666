@@ -222,3 +222,4 @@ def main():
 
 if __name__ == "__main__":
     main()  # Ejecuta el juego si este archivo se abre directamente.
+# Modulo: Actividad 2 - Sistema de colisiones y fisicas
