@@ -1,7 +1,7 @@
 ﻿# Pong Retro Arcade - Proyecto Integrador
 
 **Estudiante:** Ivan Gil  
-**Materia:** Fundamentos de Programacion  
+**Materia:** Logíca de programación 
 **Nivel:** 1er Cuatrimestre  
 
 ## Objetivo General
